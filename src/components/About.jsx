@@ -25,7 +25,7 @@ const About = () => {
               </div>
             ))}
 
-            {/* Skills Icons */}
+          
             <div className="mt-8 flex gap-8 justify-center md:justify-start">
               {[
                 { icon: <BookOpen size={32} />, label: "Continuous Learning" },
